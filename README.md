@@ -9,6 +9,6 @@ Simple landing page for a SaaS
 
 <img width="1440" height="900" alt="Screenshot 2025-12-22 at 11 56 10 PM" src="https://github.com/user-attachments/assets/835b7ef4-a22a-41c4-a259-de8d737f509f" />
 
-<img width="1440" height="900" alt="Screenshot 2025-12-22 at 11 56 14 PM" src="https://github.com/user-attachments/assets/6752590a-5189-4d50-8fe6-bee18fac015c" />
+<img width="1440" height="900" alt="Screenshot 2025-12-22 at 11 59 07 PM" src="https://github.com/user-attachments/assets/0a1c54f4-8cb3-4c7e-a20f-46e0d4235fd2" />
 
-<img width="1440" height="900" alt="Screenshot 2025-12-18 at 7 16 56 PM" src="https://github.com/user-attachments/assets/5891a7dc-a825-4892-b80b-2fb3cc5c9820" />
+<img width="1440" height="900" alt="Screenshot 2025-12-22 at 11 56 14 PM" src="https://github.com/user-attachments/assets/6752590a-5189-4d50-8fe6-bee18fac015c" />
