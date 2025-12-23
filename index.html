@@ -4,17 +4,114 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Growth App</title>
-  <link rel="stylesheet" href="css/stylesheet">
   <!-- font poppins (google fonts) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
   <!-- font awsome (cdnjs)-->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 </head>
 <body>
-  <h1>Hello</h1>
+  <!-- Navbar -->
+  <header>
+    <nav class="navbar">
+      <div class="container">
+        <div class="logo">
+          <a href="index.html">
+            <img src="images/logo.png" alt="logo">
+          </a>
+        </div>
 
+        <div class="main-menu">
+          <ul>
+            <li>
+              <a href="index.html">Home</a>
+            </li>
+            <li>
+              <a href="#">About Us</a>
+            </li>
+            <li>
+              <a href="#">Blog</a>
+            </li>
+            <li>
+              <a class="btn" href="#">
+                <i class="fas fa-user"></i> Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero-content">
+        <h1 class="hero-heading text-xxl">
+          A powerful solution to grow your startup. Fast!
+        </h1>
+        <p class="hero-text">
+          Organize, collaborate, and track progress seamlessly with out one-stop-shop startup growth tool.
+        </p>
+        <div class="hero-buttons">
+          <a href="#" class="btn btn-primary">Get Started</a>
+          <a href="#" class="btn">
+            <i class="fas fa-laptop"></i>
+            Book a Demo
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Video -->
+  <section class="video bg-black">
+    <div class="container-sm">
+      <h2 class="video-heading text-xl text-center">
+        See how it works and get started in less than 2 minutes.
+      </h2>
+      <div class="video-content">
+        <a href="#">
+          <img src="images/video-preview.png" alt="video"
+          class="video-preview" />
+        </a>
+
+        <a href="#" class="btn btn-primary">Get Started</a>
+      </div>
+    </div>
+  </section>
+  <!-- Testimonials -->
+   <section class="testimonials bg-dark">
+    <div class="container">
+      <h3 class="testimonials-heading text-xl">
+        Don't just take our word for it, see the success stories from businesses just like yours.
+      </h3>
+      <div class="testimonials-grid">
+        <div class="card">
+          <p>
+            "Our business has seen a significant increase in productivity since we started using the Growth app."
+          </p>
+          <p>Katherine Smith</p>
+          <p>Capodopera</p>
+        </div>
+        <div class="card">
+        <p>
+            "Short, impactful quotes on websites (e.g., "Saved us 10 hours a week!") to detailed case studies, video testimonials, and social media posts"
+          </p>
+          <p>Vanessa Smith</p>
+          <p>Amazon</p>
+        </div>
+        <div class="card">
+          <p>
+            "Koble helped me raise a $3 million investment for my company. A game-changer!"
+          </p>
+          <p>David Smith</p>
+          <p>Google</p>
+        </div>
+      </div>
+    </div>
+   </section>
 
   <script src="js/main.js"></script>
 </body>
